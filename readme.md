@@ -61,7 +61,7 @@ We deliver a complete suite of services to meet your digital transformation need
 
 ```bash
 # Clone the repository
-git https://github.com/Mohammad-Ehshan/Atoms.git
+git https://github.com/Diotoara/Atoms-Agency.git
 
 # Navigate into the project directory
 cd Atoms
