@@ -64,7 +64,7 @@ We deliver a complete suite of services to meet your digital transformation need
 git https://github.com/Diotoara/Atoms-Agency.git
 
 # Navigate into the project directory
-cd Atoms
+cd Atoms Agency
 
 # Install dependencies
 npm install
